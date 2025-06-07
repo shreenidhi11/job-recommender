@@ -1,0 +1,1 @@
+This project is a full-stack Employment Recommendation System with personalized upskilling suggestions. This application uses React.js and Python based web services to match users with suitable roles based on their resumes.
