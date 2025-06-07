@@ -1,0 +1,10 @@
+*{
+    margin-top: 2px;
+    padding: 0;
+}
+
+body{
+    background-color:rgba(202, 132, 47, 0.207);
+    color: black;
+    text-align: center;
+}

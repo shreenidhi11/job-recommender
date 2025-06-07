@@ -1,0 +1,44 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# ─────────────── Python / Flask backend ───────────────
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# If you use a .env file for secrets/config
+.env
+*.env
+
+# Flask logs, SQLite DBs, uploads folder (if any)
+*.log
+*.sqlite3
+uploads/
+
+# ─────────────── React frontend ───────────────
+# Node dependencies
+frontend/node_modules/
+
+# Production build output
+frontend/build/
+
+# logs
+frontend/npm-debug.log*
+frontend/yarn-error.log*
+
+# ─────────────── General / macOS / IDE ───────────────
+# macOS
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# JetBrains (PyCharm, WebStorm, etc.)
+.idea/
+
+# System files
+Thumbs.db
