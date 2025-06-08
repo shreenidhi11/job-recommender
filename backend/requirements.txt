@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pandas
+spacy
+scikit-learn
+nltk
+pdfminer.six
+pdfplumber
+python-multipart
